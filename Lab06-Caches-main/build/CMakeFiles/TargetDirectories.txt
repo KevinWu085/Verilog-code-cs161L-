@@ -1,0 +1,6 @@
+/workspaces/Lab06-Caches/build/CMakeFiles/matrix-mul-row-major.dir
+/workspaces/Lab06-Caches/build/CMakeFiles/matrix-mul-col-major.dir
+/workspaces/Lab06-Caches/build/CMakeFiles/hello_c.dir
+/workspaces/Lab06-Caches/build/CMakeFiles/hello_cpp.dir
+/workspaces/Lab06-Caches/build/CMakeFiles/edit_cache.dir
+/workspaces/Lab06-Caches/build/CMakeFiles/rebuild_cache.dir
